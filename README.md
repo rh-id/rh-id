@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rh-id
-- 👀 I’m interested in Java :coffee: & Android :robot:
-- 🌱 I’m currently learning Android, Java, Flutter
-- 💞️ I’m looking to collaborate on anything related with java or android
+- 👀 I’m interested in Java :coffee: & Android :robot: & Computer Vision
+- 🌱 I’m currently learning Android, Java, Python
+- 💞️ I’m looking to collaborate on anything related with java or android or computer vision
 
 <!---
 rh-id/rh-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
